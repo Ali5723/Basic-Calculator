@@ -45,6 +45,3 @@ button {
 button:hover {
   background: #6a6ab8;
 }
-.number0 {
-  grid-column: span 2;
-}
